@@ -61,7 +61,7 @@ For testing the API, you can import the **Postman Collection** included in:
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [13.7563, 100.5018]
+    "coordinates": [100.5018, 13.7563]
   },
   "properties": {
     "name": "Bangkok",
